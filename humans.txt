@@ -9,7 +9,8 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	
+	to all my students
     <name>
 
 # TECHNOLOGY COLOPHON
