@@ -4,6 +4,7 @@ this is a simple jfkdsjflkdj
 
 this is addded for rebasing 
 more changes from my feature branch
+emergency fix after stash
 
 This repository is for showing how Git and GitHub work
 
