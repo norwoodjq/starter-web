@@ -3,6 +3,9 @@
 
 # TEAM
 
+	Jason Taylor jt@twitter.com
+	John Norwood jn@twitter.com
+
     <name> -- <role> -- <twitter>
 
 # THANKS
