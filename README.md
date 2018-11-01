@@ -16,5 +16,6 @@ Sample website with plenty of files for demos
 simple dploy section
 
 ## How to Contribute
+please fork the repository and issue pull request for review
 
 ### Copyright 2018 add copyright note here
