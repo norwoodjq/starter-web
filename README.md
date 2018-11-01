@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 simple dploy section
 
 ## How to Contribute
+
+### Copyright 2018 add copyright note here
